@@ -1,0 +1,12 @@
+#19-Um prof quer sortear 4 alunos para apagar o quadro. Faça um programa que ajude ele, lendo o nome deles e escrevendo o nome do escolhido.
+
+import random
+n1 = str(input('Primeiro Aluno: '))
+n2 = str(input('Segundo aluno: '))
+n3 = str(input('Terceiro aluno: '))
+n4 = str(input('Quarto aluno: '))
+lista = [n1, n2, n3, n4] #Array com os valores para serem randomizados.
+escolhido = random.choice(lista) #Randomiza a lista de valores armanezados nas arrays.
+print('O aluno ecolhido foi {}'.format(escolhido))
+
+# from random import choice - utilizar somente choice. choice(lista).
