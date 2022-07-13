@@ -1,1 +1,25 @@
 
+
+Você deverá criar uma classe de uma conta bancária. Essa classe deverá ter as seguintes propriedades e funcionalidades:
+
+    Saldo
+    Titular
+    Método para printar os valores da conta no formato [titular] --> [saldo]
+    Método para fazer uma transferência
+
+
+Porém, o método de transferência tem uma peculiaridade: cada banco implementa esse método de maneira diferente, pois o cálculo da taxa de transferência varia para cada um deles.
+
+
+Utilizando os conceitos de orientação de objetos implemente as seguintes funcionalidades:
+
+O Itaú cobra 1% do valor da transação de quem está enviando.
+
+O Bradesco cobra 0.5% + 5 reais do valor da transação de quem está enviando.
+
+
+Considere as seguintes restrições quando estiver fazendo seu código:
+
+    Em nenhuma situação deve ser permitido que o cálculo seja feito utilizando uma conta que não seja de um banco específico.
+    Não deve ser possível transferir dinheiro para a mesma conta
+    Não deve ser possível completar a transferência quando o valor da taxa + o valor da transferência for maior que o saldo em conta
