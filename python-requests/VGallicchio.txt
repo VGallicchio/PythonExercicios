@@ -1,0 +1,10 @@
+
+"Repo: AluraChalengeBI---Semana-2-Database  Link:  https://github.com/VGallicchio/AluraChalengeBI---Semana-2-Database"
+"Repo: AluraChallengeBI  Link:  https://github.com/VGallicchio/AluraChallengeBI"
+"Repo: Modelo-Preditivo  Link:  https://github.com/VGallicchio/Modelo-Preditivo"
+"Repo: PowerBI  Link:  https://github.com/VGallicchio/PowerBI"
+"Repo: PowerBI_SucosVendas  Link:  https://github.com/VGallicchio/PowerBI_SucosVendas"
+"Repo: Python-Data-Science-Pandas-Tratando-e-analisando-Dados  Link:  https://github.com/VGallicchio/Python-Data-Science-Pandas-Tratando-e-analisando-Dados"
+"Repo: PythonDataScience  Link:  https://github.com/VGallicchio/PythonDataScience"
+"Repo: PythonExercicios  Link:  https://github.com/VGallicchio/PythonExercicios"
+"Repo: Python_Pandas_Tecnicas_avancadas  Link:  https://github.com/VGallicchio/Python_Pandas_Tecnicas_avancadas"
